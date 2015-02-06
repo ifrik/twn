@@ -1,0 +1,18 @@
+<?php
+
+$databases = array (
+  'default' =>
+  array (
+    'default' =>
+     array (
+      'database' => 'd7_twn',
+      'username' => 'twn',
+      'password' => 'ThirdW0rldNetw0rk',
+      'host' => 'localhost',
+      'port' => '',
+      'driver' => 'mysql',
+      'prefix' => '',
+    ),
+  ),
+);
+
